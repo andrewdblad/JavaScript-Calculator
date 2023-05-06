@@ -1,25 +1,29 @@
+# Overview
 
-# JavaScript Calculator
+JavaScript is the language of the web and one of the most used languages in the world. I dove into this project with the purpose of learning more about the language.
 
-Calculator made in JavaScript HTML and CSS
+This is a simple JavaScript calculator with the same format as most calculators in real life. It can perform simple mathmatical calculations.
 
-## Video Demo
+This calculator can be used instead of a physical device and performs the same task.
 
- - https://youtu.be/86jyEldw2Xc
- 
+[Software Demo Video](https://youtu.be/86jyEldw2Xc)
+
+# Development Environment
+
+- JavaScript
+- HTML
+- CSS
+- VSCode
+
+# Useful Websites
+
+- [w3schools](https://www.w3schools.com)
+- [codecademy](https://www.codecademy.com/catalog/language/javascript)
+
+# Future Work
 
 
-## Screenshot
+- add more calculators (fitness, weight loss, etc.)
+- add more styling
+- convert to web app with react
 
-![Imgur](https://i.imgur.com/qp0xbfr.png)
-
-
-## 🚀 About Me
-I am a passionate developer that loves creating!
-
-
-
-## Contact Me
-
-- andrewdblad@gmail.com
-- (208) 695-3154
